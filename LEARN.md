@@ -162,7 +162,7 @@ There’s another requirement that the ERC20 specification mandates.
 
 It requires that events be triggered for allowance and transfers.
 
-Any program like a web serverver, web app or iPhone application.
+Any program like a web server, web app or iPhone application.
 
 The events are mentioned here. You can copy paste the signatures to define the event.
 
