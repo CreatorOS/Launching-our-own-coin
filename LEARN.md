@@ -37,7 +37,6 @@ Check out list of all the present tokens here [https://coinmarketcap.com/](https
 
 ![](https://qb-content-staging.s3.ap-south-1.amazonaws.com/public/fb231f7d-06af-4aff-bca3-fd51cb633f77/519ee57a-d133-47f7-9f2c-04b2759b9409.jpg)
 
-# 
 
 Note that we have modified the signature a little bit. Instead of returns(string), we have changed it to returns(string memory). The memory keyword tells Solidity that after returning the variable, it can erase it from the memory stack.
 
